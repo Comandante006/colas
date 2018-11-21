@@ -1,10 +1,3 @@
-/*
-Colas: Estructura de datos, el primero en en entrar es el primero en salir
-una cola tiene 2 lugares, el frente y el final.
-
-fifo:El primero en entrar es el primero en salir
-
-*/
 #include <iostream>
 #include <conio.h>
 #include <stdlib.h>//Libreria para poder usar new y delete 
